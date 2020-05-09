@@ -1,15 +1,3 @@
-Skip to content
- Randika02 / 02
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
- 
-Code  Issues 0  Pull requests 0  Projects 0  Actions  Wiki  Security 0  Pulse  Community
-02/function.php
-@Randika02 Randika02 Create function.php
-7d2bb39 9 days ago
-100 lines (98 sloc)  3.06 KB
-  
 <?php
 
 function request($url, $token = null, $data = null, $pin = null, $otpsetpin = null, $uuid = null){
